@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yestab335
-- 👀 I’m interested in Software Engeneering, Computer Science, and Web Development.
+- 👋 Hi, I’m Yasser
+- 👀 I’m interested in Web Design, Web Development, Game Design, and Game Development.
 - 🌱 I’m currently learning Web programming with Python and JavaScript.
-- 💞️ I’m looking to collaborate on anything computer or game related.
+- 💞️ I’m looking to collaborate on anything Web or Game related.
 - 📫 How to reach me yestab335@gmail.com for any inqueries.
 
 <!---
