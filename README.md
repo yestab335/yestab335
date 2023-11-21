@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasser
-- 👀 I’m interested in Web Design, Web Development, Game Design, and Game Development.
-- 🌱 I’m currently learning Web programming with Python and JavaScript.
+- 👀 I’m interested in Data Science, Artificial Inteligence, Neural Networks, Machine Learning, and Operating System.
+- 🌱 I’m currently learning Data Science, Computer Science, and Cyberscurity at the University of Rhode Island.
 - 💞️ I’m looking to collaborate on anything Data Science, AI, or ML related.
 - 📫 You can reach me yestab335@gmail.com for any inqueries.
 
