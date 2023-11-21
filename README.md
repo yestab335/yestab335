@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasser
 - 👀 I’m interested in Web Design, Web Development, Game Design, and Game Development.
 - 🌱 I’m currently learning Web programming with Python and JavaScript.
-- 💞️ I’m looking to collaborate on anything Web or Game related.
+- 💞️ I’m looking to collaborate on anything Data Science, AI, or ML related.
 - 📫 You can reach me yestab335@gmail.com for any inqueries.
 
 <h2 align="center">Skills</h2>
