@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam
 - 👀 I’m interested in Data Science, Artificial Inteligence, Neural Networks, Machine Learning, and Operating Systems.
-- 🌱 I’m currently learning Computer Science, Data Science, and Cyberscurity at the University of Rhode Island.
+- 🌱 I’m currently learning Data Science at the University of Rhode Island.
 - 💞️ I’m looking to collaborate on anything Data Science, AI, or ML related.
 - 📫 You can reach me yestab335@gmail.com for any inqueries.
 
